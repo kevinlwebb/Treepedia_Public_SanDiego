@@ -84,7 +84,7 @@ After finishing the computing, you can run the code of "Greenview2Shp.py" [here]
   * Shapely
   * Fiona
   * xmltodict 
-  * Python (2.7)
+  * Python 3
 
 # Contributors
 Project Co-Leads: Xiaojiang Li and Ian Seiferling
